@@ -1,0 +1,13 @@
+C:\Users\Manas Patil\source\repos\Algorithm Programs\Algorithm Programs\bin\Debug\netcoreapp3.1\Algorithm Programs.exe
+C:\Users\Manas Patil\source\repos\Algorithm Programs\Algorithm Programs\bin\Debug\netcoreapp3.1\Algorithm Programs.deps.json
+C:\Users\Manas Patil\source\repos\Algorithm Programs\Algorithm Programs\bin\Debug\netcoreapp3.1\Algorithm Programs.runtimeconfig.json
+C:\Users\Manas Patil\source\repos\Algorithm Programs\Algorithm Programs\bin\Debug\netcoreapp3.1\Algorithm Programs.runtimeconfig.dev.json
+C:\Users\Manas Patil\source\repos\Algorithm Programs\Algorithm Programs\bin\Debug\netcoreapp3.1\Algorithm Programs.dll
+C:\Users\Manas Patil\source\repos\Algorithm Programs\Algorithm Programs\bin\Debug\netcoreapp3.1\Algorithm Programs.pdb
+C:\Users\Manas Patil\source\repos\Algorithm Programs\Algorithm Programs\obj\Debug\netcoreapp3.1\Algorithm Programs.csproj.AssemblyReference.cache
+C:\Users\Manas Patil\source\repos\Algorithm Programs\Algorithm Programs\obj\Debug\netcoreapp3.1\Algorithm Programs.AssemblyInfoInputs.cache
+C:\Users\Manas Patil\source\repos\Algorithm Programs\Algorithm Programs\obj\Debug\netcoreapp3.1\Algorithm Programs.AssemblyInfo.cs
+C:\Users\Manas Patil\source\repos\Algorithm Programs\Algorithm Programs\obj\Debug\netcoreapp3.1\Algorithm Programs.csproj.CoreCompileInputs.cache
+C:\Users\Manas Patil\source\repos\Algorithm Programs\Algorithm Programs\obj\Debug\netcoreapp3.1\Algorithm Programs.dll
+C:\Users\Manas Patil\source\repos\Algorithm Programs\Algorithm Programs\obj\Debug\netcoreapp3.1\Algorithm Programs.pdb
+C:\Users\Manas Patil\source\repos\Algorithm Programs\Algorithm Programs\obj\Debug\netcoreapp3.1\Algorithm Programs.genruntimeconfig.cache
