@@ -1,0 +1,13 @@
+C:\Users\Manas Patil\source\repos\DataStructure_Programs\DataStructure_Programs\bin\Debug\netcoreapp3.1\DataStructure_Programs.exe
+C:\Users\Manas Patil\source\repos\DataStructure_Programs\DataStructure_Programs\bin\Debug\netcoreapp3.1\DataStructure_Programs.deps.json
+C:\Users\Manas Patil\source\repos\DataStructure_Programs\DataStructure_Programs\bin\Debug\netcoreapp3.1\DataStructure_Programs.runtimeconfig.json
+C:\Users\Manas Patil\source\repos\DataStructure_Programs\DataStructure_Programs\bin\Debug\netcoreapp3.1\DataStructure_Programs.runtimeconfig.dev.json
+C:\Users\Manas Patil\source\repos\DataStructure_Programs\DataStructure_Programs\bin\Debug\netcoreapp3.1\DataStructure_Programs.dll
+C:\Users\Manas Patil\source\repos\DataStructure_Programs\DataStructure_Programs\bin\Debug\netcoreapp3.1\DataStructure_Programs.pdb
+C:\Users\Manas Patil\source\repos\DataStructure_Programs\DataStructure_Programs\obj\Debug\netcoreapp3.1\DataStructure_Programs.csproj.AssemblyReference.cache
+C:\Users\Manas Patil\source\repos\DataStructure_Programs\DataStructure_Programs\obj\Debug\netcoreapp3.1\DataStructure_Programs.AssemblyInfoInputs.cache
+C:\Users\Manas Patil\source\repos\DataStructure_Programs\DataStructure_Programs\obj\Debug\netcoreapp3.1\DataStructure_Programs.AssemblyInfo.cs
+C:\Users\Manas Patil\source\repos\DataStructure_Programs\DataStructure_Programs\obj\Debug\netcoreapp3.1\DataStructure_Programs.csproj.CoreCompileInputs.cache
+C:\Users\Manas Patil\source\repos\DataStructure_Programs\DataStructure_Programs\obj\Debug\netcoreapp3.1\DataStructure_Programs.dll
+C:\Users\Manas Patil\source\repos\DataStructure_Programs\DataStructure_Programs\obj\Debug\netcoreapp3.1\DataStructure_Programs.pdb
+C:\Users\Manas Patil\source\repos\DataStructure_Programs\DataStructure_Programs\obj\Debug\netcoreapp3.1\DataStructure_Programs.genruntimeconfig.cache
